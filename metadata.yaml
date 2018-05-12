@@ -1,0 +1,47 @@
+_repo: The-Tale-of-Samuel-Whiskers--13-Or-The-Roly-Poly-Pudding_15575
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Potter, Beatrix
+    aliases:
+    - Heelis, Beatrix
+    - Potter, Helen Beatrix
+    birthdate: 1866
+    deathdate: 1943
+    gutenberg_agent_id: '292'
+    url: http://www.gutenberg.org/2009/agents/292
+    wikipedia: http://en.wikipedia.org/wiki/Beatrix_Potter
+description: "The Tale of Samuel Whiskers or The Roly-Poly Pudding is a children's\
+  \ book written and illustrated by Beatrix Potter and first published by Frederick\
+  \ Warne & Co. in October 1908 as The Roly-Poly Pudding. In 1926, it was re-published\
+  \ as The Tale of Samuel Whiskers. The book is dedicated to the author's fancy rat\
+  \ \"Sammy\" and tells of Tom Kitten's escape from two rats who plan to make him\
+  \ into a pudding. The tale was adapted to animation in 1993.\n From Wikipedia (CC\
+  \ BY-SA)."
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2005-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15575'
+  wikidata: Q2068209
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rats -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+title: The Tale of Samuel Whiskers; Or, The Roly-Poly Pudding
+url: http://www.gutenberg.org/ebooks/15575
+wikipedia:
+- https://id.wikipedia.org/wiki/The_Tale_of_Samuel_Whiskers_or,_The_Roly-Poly_Pudding
+- https://ja.wikipedia.org/wiki/%E3%81%B2%E3%81%92%E3%81%AE%E3%82%B5%E3%83%A0%E3%82%A8%E3%83%AB%E3%81%AE%E3%81%8A%E3%81%AF%E3%81%AA%E3%81%97
+- https://en.wikisource.org/wiki/The_Roly-Poly_Pudding
+- https://en.wikipedia.org/wiki/The_Tale_of_Samuel_Whiskers_or_The_Roly-Poly_Pudding
+- https://it.wikipedia.org/wiki/La_storia_di_Samuel_Baffetti
+- https://commons.wikimedia.org/wiki/Category:The_Tale_of_Samuel_Whiskers_or_The_Roly-Poly_Pudding
